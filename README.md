@@ -14,5 +14,3 @@ https://github.com/MiltonTal
 ## License
 
 N/A.
-
-
